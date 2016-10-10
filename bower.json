@@ -19,7 +19,7 @@
     "!nouislider.min.js"
   ],
   "dependencies": {
-    "nouislider": "~8.5.1",
+    "nouislider": "lknop/nouislider#8.5.2",
     "angular": "~1.4.11"
   },
   "devDependencies": {
